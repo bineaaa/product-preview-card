@@ -163,7 +163,7 @@ p {
   .container article:last-child {
     border-radius: 0 0.625rem 0.625rem 0;
     margin-top: 0;
-    padding: 1.5rem 1.5rem 0;
+    padding: 1.5rem 1.5rem 1;
   }
 
   picture img {
@@ -172,5 +172,9 @@ p {
 
   .container p {
     margin-bottom: 1rem;
+  }
+  .container .btn {
+    margin-right: 0.5rem;
+    
   }
 }
